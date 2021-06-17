@@ -44,4 +44,7 @@ header{
     opacity: 1;
     font-size: 21px;
 }
-
+.second-page{
+    height: 100vh;
+    background-color: grey;
+}
